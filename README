@@ -1,0 +1,11 @@
+Para ejecutar el script usar los siguientes comandos:
+
+$ source docker.sh
+
+o
+
+$ ./docker.sh
+bash: ./docker.sh: Permiso denegado
+$ ls -l
+$ chmod 755 docker.sh
+$ ./docker.sh
